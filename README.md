@@ -52,7 +52,7 @@ Pursuing ECE along with Minor Degree in CSE.
 <img align="left" alt="Oracle Certified Specialist" src=https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/a3840b1f-8bcd-4f75-b843-eedcb449408e/Image/031ce4f3eae2fe5d6928f346cc8b8b3c/oracle_certification_badge_oc_specialist.png " width="150" height="160" />
 <img align="left" alt="Aviatrix Certified Engineer" src="https://2ujst446wdhv3307z249ttp0-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ACE-Image250Asset-5.png" width="150" height="180" />-->
 
-<br/><br/>
+<br/><br/><br/><br/>
 <!--For Certification Profile / To verify the above logo's [click here](https://www.youracclaim.com/users/amardeepsingh)-->
 
 <hr/>
