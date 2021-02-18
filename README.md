@@ -72,4 +72,4 @@ Pursuing ECE along with Minor Degree in CSE.
 :zap: Github Stats
 
   <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=s-amardeep&show_icons=true&hide_border=true&theme=dracula" />-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-amardeep&theme=dracula&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu-Garg&theme=dracula&layout=compact" />
