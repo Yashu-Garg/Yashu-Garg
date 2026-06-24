@@ -1,75 +1,69 @@
 # Hi there, I'm Yashu 👋
-`I'm a Developer and an Engineer!`
 
-Currently PreFinal Year Student at **_NIT Jalandhar_.**
-Pursuing ECE along with Minor Degree in CSE.
+Software Engineer passionate about building efficient, reliable, and high-performance software systems.
 
-- Always looking ahead to learn & gain something new out of the box.
-- **Apart from Competitive Coding, I'm a Web enthusiast!**
+I enjoy working on challenging engineering problems involving modern C++, systems programming, performance optimization, concurrency, and scalable software design.
 
-<hr/>
+---
 
-### Programming Languages:
-<img align="left" alt="C" src="https://img.icons8.com/color/50/000000/c-programming.png" />
-<img align="left" alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Python" src="https://img.icons8.com/ios-glyphs/50/000000/python.png" />
-<br/>
-<br/>
+## About Me
 
-### Top Skills:
+* Software Engineer with experience building production-grade software in C++ and Python.
+* Interested in systems programming, performance engineering, distributed systems, and software architecture.
+* Strong believer in writing simple, maintainable, and efficient code.
+* Always learning and exploring new technologies, tools, and engineering practices.
 
--  **Data Structures & Algorithms**
-- Data Visualization
-- Full Stack Development
+---
 
-<!-- ### Cloud Platforms:
-<img align="left" alt="AWS" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" width="75" height="75" />
-<img align="left" alt="Azure" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png" width="110" height="75" /> -->
+## Areas of Interest
 
-<!-- <br/><br/> -->
-<br/><hr/>
+* Modern C++ (C++17/20)
+* Systems Programming
+* Low-Latency Systems
+* Performance Engineering
+* Concurrent & Multithreaded Programming
+* Distributed Systems
+* Linux Internals
+* Software Design & Architecture
 
-### Extra Co-curricular activities (Executive/Senior Member at) :
+---
 
-- Lead of Codechef Chapter NITJ
-- Coding Club NITJ
-- Institution of Innovation Council (IIC) Powered by MHRD
+## Technical Skills
 
-<hr/>
+### Languages
 
-### Certifications:
-<img align="left" alt="Coding Ninjas" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width="100" height="100" />
+* C++
+* Python
+* C
 
-<!-- <img align="left" alt="Microsoft Certified : Azure AI Fundamentals" src="https://www.noticebard.com/wp-content/uploads/2017/07/nptel-logo.jpg" width="100" height="100" /> -->
+### Systems & Infrastructure
 
-<!-- <img align="left" alt="Microsoft Certified : Azure AI Engineer" src="https://miro.medium.com/max/1200/1*osrSBsTxaaB3cLK8C0FXzg.png" width="100" height="100" />
+* Linux
+* Networking
+* Multithreading
+* Concurrency
+* Memory Management
 
-<img align="left" alt="Microsoft Certified : Azure Data Scientist" src="https://miro.medium.com/max/600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" width="100" height="100" /> -->
+### Engineering
 
-<!--
-<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.squarespace-cdn.com/content/v1/5af21c03e17ba3f52f6d007b/1564594919808-23KLDW21ITQ8T4GZOM7B/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/fundamentalbadge.png" width="160" height="160" />
-<img align="left" alt="Oracle Certified Associate" src="https://images.youracclaim.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="165" height="165" />
-<img align="left" alt="Oracle Certified Specialist" src=https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/a3840b1f-8bcd-4f75-b843-eedcb449408e/Image/031ce4f3eae2fe5d6928f346cc8b8b3c/oracle_certification_badge_oc_specialist.png " width="150" height="160" />
-<img align="left" alt="Aviatrix Certified Engineer" src="https://2ujst446wdhv3307z249ttp0-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ACE-Image250Asset-5.png" width="150" height="180" />-->
+* Data Structures & Algorithms
+* System Design
+* Performance Optimization
+* Debugging & Profiling
 
-<br/><br/><br/><br/>
-<!--For Certification Profile / To verify the above logo's [click here](https://www.youracclaim.com/users/amardeepsingh)-->
+---
 
-<hr/>
+## Highlights
 
-### Connect with me:
+* Passionate about building performant and scalable software.
+* Strong foundation in data structures, algorithms, and systems design.
+* Experience working on large-scale production software systems.
+* Continuously exploring modern C++ and systems engineering concepts.
 
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
+---
 
-<!-- [twitter]: https://twitter.com/s_amardeep9 -->
-[linkedin]: https://www.linkedin.com/in/yashu-nitj/
-[github]: https://github.com/Yashu-Garg
+## Connect With Me
 
-<br/><hr/>
+[LinkedIn](https://www.linkedin.com/in/yashu-nitj/) • [GitHub](https://github.com/Yashu-Garg)
 
-:zap: Github Stats
-
-  <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=s-amardeep&show_icons=true&hide_border=true&theme=dracula" />-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu-Garg&theme=dracula&layout=compact" />
+---
